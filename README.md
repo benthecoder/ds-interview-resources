@@ -1,7 +1,7 @@
-# Guide to Getting a Data Scientist Job in APAC
-A collection of awesome resources to prepare for Data Science Interviews in Asia-Pacific
+# Guide to Getting a Data Scientist Job in APAC 🌏
+A collection of awesome resources to prepare for Data Science Interviews 🗣️ in Asia-Pacific
 
-Feel free to send a pull request to update these resources! 
+🙌 Feel free to send a pull request to update these resources! 
 
 ## Data Science
 ![venn_diagram](venn_diagram.png)
@@ -23,7 +23,7 @@ Based on [this article](https://www.northeastern.edu/graduate/blog/data-science-
 11. Data Analyst
 
 
-## Question and Answers
+## Question and Answers 
 * [OVER 100 Data Scientist Interview Questions and Answers! by Terence Shin](https://towardsdatascience.com/over-100-data-scientist-interview-questions-and-answers-c5a66186769a)
 * [Top 50 Data Science Interview Questions and Answers by guru99](https://www.guru99.com/data-science-interview-questions.html)
 * [Data Science Interview Questions by hackr.io](https://hackr.io/blog/data-science-interview-questions)

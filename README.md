@@ -6,21 +6,23 @@ A collection of awesome resources to prepare for Data Science Interviews 🗣️
 ## Data Science
 ![venn_diagram](venn_diagram.png)
 
-### Top Data Science Roles
+### Top Data Science Roles in 2020
 
 Based on [this article](https://www.northeastern.edu/graduate/blog/data-science-careers-shaping-our-future/)
 
-1. Data Scientist
-2. Machine Learning Engineer
-3. Machine Learning Scientist
-4. Applications Architect
-5. Enterprise Architect
-6. Data Architect
-7. Infrastructure Architect
-8. Data Engineer
-9. Business Intelligence (BI) Developer
-10. Statistician
-11. Data Analyst
+|                 Role                 | Average Salary ($)  |
+|:------------------------------------:|:-------------------:|
+|            Data Scientist            |       139,840       |
+|       Machine Learning Engineer      |       114,826       |
+|      Machine Learning Scientist      |       114,121       |
+|        Applications Architect        |       113,757       |
+|         Enterprise Architect         |       110,663       |
+|            Data Architect            |       108,278       |
+|       Infrastructure Architect       |       107,309       |
+|             Data Engineer            |       102,864       |
+| Business Intelligence (BI) Developer |        81,514       |
+|             Statistician             |        76,884       |
+|             Data Analyst             |       62, 453       |
 
 
 ## Question and Answers 

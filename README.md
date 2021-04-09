@@ -1,7 +1,7 @@
 # Guide to Getting a Data Scientist Job in APAC 🌏
 A collection of awesome resources to prepare for Data Science Interviews 🗣️ in Asia-Pacific
 
-🙌  Feel free to send a pull request to update these resources! 
+🙌  Feel free to send a [pull request](https://github.com/benthecoder/ds-interview-resources/pulls) to update these resources! 
 
 ## Data Science
 ![venn_diagram](venn_diagram.png)

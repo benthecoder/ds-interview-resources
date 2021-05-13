@@ -22,7 +22,7 @@ Based on [this article](https://www.northeastern.edu/graduate/blog/data-science-
 |             Data Engineer            |       102,864       |
 | Business Intelligence (BI) Developer |        81,514       |
 |             Statistician             |        76,884       |
-|             Data Analyst             |       62, 453       |
+|             Data Analyst             |        62,453       |
 
 
 ## Question and Answers 
@@ -35,7 +35,7 @@ Based on [this article](https://www.northeastern.edu/graduate/blog/data-science-
 * [DS interviews - therotical and technical questions](https://ds-interviews.org/)
 * [zhiqiangzhongddu/Data-Science-Interview-Questions-and-Answers-General](https://github.com/zhiqiangzhongddu/Data-Science-Interview-Questions-and-Answers-General-)
 * [kojino/120-Data-Science-Interview-Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
-
+* [50 MOST POPULAR DATA SCIENCE QUESTIONS ASKED IN INTERVIEWS 2021 by Analytics Insight](https://www.analyticsinsight.net/50-most-popular-data-science-questions-asked-in-interviews-2021/) (No answers)
 ## Skills
 
 ### Mathematics

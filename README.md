@@ -36,6 +36,7 @@ Based on [this article](https://www.northeastern.edu/graduate/blog/data-science-
 * [zhiqiangzhongddu/Data-Science-Interview-Questions-and-Answers-General](https://github.com/zhiqiangzhongddu/Data-Science-Interview-Questions-and-Answers-General-)
 * [kojino/120-Data-Science-Interview-Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
 * [50 MOST POPULAR DATA SCIENCE QUESTIONS ASKED IN INTERVIEWS 2021 by Analytics Insight](https://www.analyticsinsight.net/50-most-popular-data-science-questions-asked-in-interviews-2021/) (No answers)
+
 ## Skills
 
 ### Mathematics
@@ -160,6 +161,9 @@ Based on [this article](https://www.northeastern.edu/graduate/blog/data-science-
 * [academic/awesome-datascience](https://github.com/academic/awesome-datascience)
 * [tirthajyoti/Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources)
 * [cdeweyx/DS-Career-Resources](https://github.com/cdeweyx/DS-Career-Resources/blob/master/Interview-Resources.md)
+
+## More resources
+* [The Big List of Data Science Interview Resources](https://www.conordewey.com/blog/the-big-list-of-data-science-interview-resources/)
 
 ## Concluding advice/CTA
 
